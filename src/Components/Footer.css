@@ -1,0 +1,37 @@
+
+
+.footer{
+    background-color: #8f996e;
+}
+.footer-logo{
+display: flex;
+justify-content: center;
+font-family: 'Teko', sans-serif;
+font-style: italic ;
+font-size: 32px;
+color:black;
+padding-top: 20px;
+}
+.footer-social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.footer-social-icon1:hover{
+    transform: scale(1.09);
+    transition: 0.6s;
+}
+.footer-social-icon2:hover{
+    transform: scale(1.09);
+    transition: 0.6s;
+}
+.footer-social-icon3:hover{
+    transform: scale(1.09);
+    transition: 0.6s;
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

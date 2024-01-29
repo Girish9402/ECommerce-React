@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+.gender{
+    margin-left: 10px;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bolder;
+    color: white;
+}
+
+.gender>a:hover{
+background-color:#1d9932 !important;
+}
+
+
+.brands{
+    font-family: 'Teko', sans-serif;
+    font-style: italic ;
+    font-size: 32px;
+    color:white!important;
+    margin-top: 10px;
+}
+
+.brands>span{
+    color:#018c19;
+}
+
+.Navigate{
+    border:0;
+    background-color: black;
+    margin-bottom: -5px;
+}
+
+.sgup{
+    margin-left:-5px;
+}
+
+.sgup>a:hover{
+    background-color:#1d9932 !important;
+}
