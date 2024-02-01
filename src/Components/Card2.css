@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Poppins:wght@200&family=Quicksand:wght@400;500&display=swap');
 .porul{
     display: flex;
     flex-direction: column;
@@ -8,10 +9,12 @@
 }
 .de{
 padding-left: 10px;
+font-family: 'Crimson Text', serif;
 }
 .dn{
     margin-left:10px;
     margin-bottom: 10px;
+    background-color:#018c19;
 }
 .dk{
     height:300px;
@@ -23,6 +26,7 @@ padding-left: 10px;
 
 .dj{
     padding-left: 10px;
+    font-family: 'Crimson Text', serif;
 }
 .porul:hover{
     transform: scale(1.07);
